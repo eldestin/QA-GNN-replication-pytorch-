@@ -1,4 +1,4 @@
-# This repository refer to [@Michihiro Yasunaga](https://github.com/michiyasunaga/qagnn "Github repository")
+# This repository refer to [@Michihiro Yasunaga](https://github.com/michiyasunaga/qagnn "Github repository"), please read the paper first. Also, a ppt is provided for better understanding the working flow of this model.
 
 ## Please read this file before running the provided Code
 ## This Repository is a replication for QA-GNN, which is a Question-Answering model using Knowledge Graph for stuctured reasoning
